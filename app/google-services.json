@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696228518668",
+    "project_id": "aksu-messenger",
+    "storage_bucket": "aksu-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696228518668:android:afe34054accac55bd70729",
+        "android_client_info": {
+          "package_name": "com.example.aksumessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696228518668-u7mg9n1prj3h3vfnr3r1g3j85v6scr0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfeQHe0zO3hos4ePbHy_uoWu8usMn73lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696228518668-u7mg9n1prj3h3vfnr3r1g3j85v6scr0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
